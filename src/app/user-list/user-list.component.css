@@ -1,0 +1,8 @@
+a {
+  text-decoration: none !important;
+  color: #656DBC !important;
+}
+a:hover{
+ font-weight: bold !important;
+ color: #D43F3F !important;
+}
