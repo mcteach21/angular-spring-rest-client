@@ -321,3 +321,10 @@ img.logo {
     font-weight: bold;
     color: antiquewhite;
 }
+
+
+.toolbar, .footer{
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+}
